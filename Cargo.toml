@@ -8,7 +8,8 @@ edition = "2018"
 
 [dependencies]
 jni = { version = "0.10.2", default-features = false }
-hyper = "0.14.5"
+hyper = { version = "0.14", features = ["full"] }
+tokio = { version = "1", features = ["full"] }
 
 [profile.release]
 lto = true
