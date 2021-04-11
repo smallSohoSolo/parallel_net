@@ -1,0 +1,14 @@
+[package]
+name = "parallel_net_android"
+version = "0.0.1"
+authors = ["chenlongbo<chenlongbo@kuaishou.com>"]
+edition = "2018"
+
+[dependencies]
+parallel_net = { version = "0.0.1", path = "../../../../../../.." }
+android_log = "0.1"
+jni = { version = "0.10.2", default-features = false }
+
+[lib]
+name = "parallel_net_android"
+crate-type = ["cdylib"]
