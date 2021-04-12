@@ -8,16 +8,7 @@
     <cargoProject FILE="$PROJECT_DIR$/bindings/kotlin/ParallelNet/parallelnet/src/main/rust/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2397bfb3-8104-4b8f-a585-437cf4ee0edc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.idea/vcs.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="2397bfb3-8104-4b8f-a585-437cf4ee0edc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
