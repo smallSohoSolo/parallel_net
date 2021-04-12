@@ -3,14 +3,9 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/bindings/kotlin/ParallelNet/parallelnet/src/main/rust/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
-      <excludeFolder url="file://$MODULE_DIR$/bindings/kotlin/ParallelNet/parallelnet/src/main/rust/target" />
-      <excludeFolder url="file://$MODULE_DIR$/bindings/kotlin/ParallelNet/.idea/caches" />
-      <excludeFolder url="file://$MODULE_DIR$/bindings/kotlin/ParallelNet/.idea/libraries" />
-      <excludeFolder url="file://$MODULE_DIR$/bindings/kotlin/ParallelNet/.idea/modules" />
-      <excludeFolder url="file://$MODULE_DIR$/bindings/kotlin/ParallelNet/parallelnet/build" />
+      <excludeFolder url="file://$MODULE_DIR$/local" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

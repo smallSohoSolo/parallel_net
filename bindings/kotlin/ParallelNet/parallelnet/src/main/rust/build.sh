@@ -3,9 +3,8 @@
 # config ndk
 
 # shellcheck disable=SC2039
-source ../../../../../../../local/build_config.sh
-
-cp ../../../../../../../local/cargo-config.toml ~/.cargo/config
+# source local/build_config.sh
+# cp local/cargo-config.toml ~/.cargo/config
 
 # build
 cargo build --target armv7-linux-androideabi --release
