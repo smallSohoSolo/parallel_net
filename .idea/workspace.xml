@@ -9,39 +9,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2397bfb3-8104-4b8f-a585-437cf4ee0edc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.8/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/out.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/out1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/res.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/parallel_net.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/parallelnet/src/main/rust/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/parallelnet/src/main/rust/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/parallelnet/src/main/rust/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/engine.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/parallelnet/src/main/rust/build.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parallel.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
