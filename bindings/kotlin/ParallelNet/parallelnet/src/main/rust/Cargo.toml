@@ -7,6 +7,8 @@ edition = "2018"
 [dependencies]
 parallel_net = { version = "0.0.1", path = "../../../../../../.." }
 android_log = "0.1"
+log = { version = "0.4" }
+hyper = { version = "0.14", features = ["full"] }
 jni = { version = "0.10.2", default-features = false }
 
 [lib]

@@ -1,18 +1,18 @@
 #!/bin/sh
 
 # config ndk
+SO_PATH=../jniLibs/armeabi-v7a
+LIB_NAME="libparallel_net_android.so"
+NDK_PATH=/Users/wangyucheng/Library/Android/sdk/ndk/22.1.7171670
 
 # shellcheck disable=SC2039
-# source local/build_config.sh
-# cp local/cargo-config.toml ~/.cargo/config
+cp ../../../../../../../local/cargo-config.toml ~/.cargo/config
 
 # build
 cargo build --target armv7-linux-androideabi --release
 
 # optimize
-"$NDK_PATH"/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/arm-linux-androideabi-strip -s target/armv7-linux-androideabi/release/"$LIB_NAME"
+"$NDK_PATH"/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/arm-linux-androideabi-strip -s ./target/armv7-linux-androideabi/release/"$LIB_NAME"
 
 # move
-SO_PATH= ../jniLibs/armeabi-v7a
-mkdir -vp "$SO_PATH"
-cp target/armv7-linux-androideabi/release/"$LIB_NAME" "$SO_PATH"/"$LIB_NAME"
+cp ./target/armv7-linux-androideabi/release/"$LIB_NAME" "$SO_PATH"/"$LIB_NAME"

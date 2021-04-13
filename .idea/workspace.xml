@@ -5,27 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab920367-fe27-4dec-a08e-198749006fa0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/R.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/R1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/classes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/classes1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/out.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/out1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/res.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/parallel_net.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/parallel_net.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/app/src/main/java/com/parallelnet/android/DemoFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/app/src/main/java/com/parallelnet/android/DemoFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/parallelnet/src/main/jniLibs/armeabi-v7a/libparallelnet.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/parallelnet/src/main/rust/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/parallelnet/src/main/rust/Cargo.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/parallelnet/src/main/rust/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/parallelnet/src/main/rust/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/parallelnet/src/main/rust/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/bindings/kotlin/ParallelNet/parallelnet/src/main/rust/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/engine.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/engine.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +44,13 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.disableDetachedFileInspection/Users/wangyucheng/mydata/source/rust/parallel_net/bindings/kotlin/ParallelNet/parallelnet/src/main/rust/src/lib.rs" value="true" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -90,5 +79,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
